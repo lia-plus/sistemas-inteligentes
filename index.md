@@ -3,7 +3,7 @@ O **LIA+ Engenharia de Sistemas Inteligentes** é a plataforma tecnológica tran
 ## Coordenação
 
 **Luciano Silveira**  
-*Cientista de Alimentos, Mestre em Física do Ambiente Agrícola e Doutor em Engenharia de Sistemas Agrícolas pela ESALQ/USP — tendo cursado as disciplinas do doutorado no ICMC e na Poli/USP com foco em Ciência da Computação. Em fase final da graduação em Engenharia da Computação pela Univesp, foca na aplicação de Ciência de Dados, integração de hardware e engenharia de software embarcado para a otimização de sistemas e a inserção da Inteligência Artificial no mundo físico.*
+*Cientista de Alimentos, Mestre em Física do Ambiente Agrícola e Doutor em Engenharia de Sistemas Agrícolas pela ESALQ/USP, com formação complementar em Ciência da Computação (disciplinas do doutorado no ICMC, EESC e Poli-USP) e graduando em Engenharia da Computação pela Univesp (concluinte). Foca em Ciência de Dados, integração de hardware e engenharia de software para otimização de sistemas e inserção da Inteligência Artificial no mundo físico.*
 
 ---
 
