@@ -13,7 +13,7 @@ O **LIA+ Engenharia de Sistemas Inteligentes** é a plataforma tecnológica tran
 Desenvolvimento e embarque de modelos de aprendizado de máquina em microcontroladores de baixo custo. O objetivo é validar o processamento próximo à fonte de dados (*Edge AI* e *TinyML*), garantindo autonomia, privacidade e alta eficiência energética no campo, sem depender de conexão constante com a internet.
 
 ### 🤖 Inteligência Artificial Generativa Localizada (*Small LLMs* e Agentes)
-Criação de pequenas inteligências artificiais generativas rodando de forma autônoma e *offline* (*stand-alone*), sem dependência de *data centers* ou conexão com a internet. O foco é o uso de modelos de código aberto (DeepSeek, GLM, Kimi K3 e similares), com customização via *embeddings* e agentes especialistas para tarefas de domínio - como diagnóstico de origem de madeira, carne e soja - visando privacidade de dados, baixo custo energético e processamento em intranet ou em PCs locais.
+Criação de pequenas inteligências artificiais generativas rodando de forma autônoma e *offline* (*stand-alone*), sem dependência de *data centers* ou conexão com a internet. O foco é o uso de modelos fundacionais de código aberto, com customização via *embeddings* e agentes especialistas para tarefas de domínio, visando a proteção de dados sensíveis, baixo custo energético e processamento seguro em intranet ou em PCs locais.
 
 ### 🔬 Sensoriamento e Integração Óptica
 Acoplamento de espectroscopia portátil (NIR) e sensores analíticos a sistemas inteligentes. A meta é validar modelos quimiométricos e de classificação para rastreabilidade e garantia de qualidade em amostras biológicas, agrícolas e florestais.
